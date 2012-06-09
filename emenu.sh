@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Portage Interface v0.4.3
-# euphor][a, euphoria@dopesmoker.net
+# euphor][a <euphoria@dopesmoker.net>
 
 # Emerge Menu:
 # ===========
